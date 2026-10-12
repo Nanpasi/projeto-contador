@@ -1,6 +1,7 @@
 # Contador
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa7f06a5-d56a-4ad9-97e2-66adbf9329c5" />
+<img src="./assets/demonstracao.gif">
+
 
 # ℹ️ Sobre
 Aplicativo de contador que permite aumentar, diminuir ou resetar o número exibido na tela. Feito usando HTML, CSS e JavaScript puros.
