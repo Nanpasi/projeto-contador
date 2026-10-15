@@ -1,6 +1,6 @@
 # Contador
 
-<img src="./assets/demonstracao.gif">
+<img src="./assets/img/demo.gif">
 
 
 # ℹ️ Sobre
